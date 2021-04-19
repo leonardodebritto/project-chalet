@@ -83,11 +83,9 @@ a.reservation {
 #menu {
     margin-top: 15px;
 }
-
 ul {
     list-style: none;
 }
-
 ul#navigation a {
     text-transform: uppercase;
     font-size: 0.8em;
@@ -95,7 +93,6 @@ ul#navigation a {
     color: #6e672c;
     line-height: 30px;
 }
-
 ul#navigation {
     float: left;
 }
@@ -135,13 +132,11 @@ p {
     font-size: 1em;
     margin-bottom: 10px;
 }
-
 #benefits li{
     padding: 8px;
     border-bottom: 1px solid #f3efcb;
     height: 6em;
 }
-
 #benefits li a img {
     float: left;
     margin-right: 8px;
@@ -156,7 +151,6 @@ p {
     padding: 5px 0;
     background: url(image/ornamento.png) center right no-repeat;
 }
-
 #benefits li:hover {
     background: #f6f3d6;
     cursor: pointer;
@@ -170,4 +164,5 @@ p {
     padding: 16px;
     background: #fff url(image/bg-rodape.png) repeat-x top;
     color: #7d7640;
+    text-align: center;
 }
